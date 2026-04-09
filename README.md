@@ -63,7 +63,13 @@ npx expo start
 ### Home (For You)
 
 ![Home For You](./screenshots/z7707445436506_e33fea8075edd4515528b1a71eee4c44.jpg)
+<img width="406" height="866" alt="image" src="https://github.com/user-attachments/assets/80fd1491-113a-4ae1-a940-3d1af5421cde" />
+
 
 ### Comments
 
 ![Comments](./screenshots/z7707445540663_c17d18ee6a72f2f7307415fd70220582.jpg)
+<img width="394" height="864" alt="image" src="https://github.com/user-attachments/assets/9728d684-6ba0-47b2-b3c3-e8296360ac76" />
+<img width="398" height="869" alt="image" src="https://github.com/user-attachments/assets/fbb3bae5-9cdb-4a06-8262-1da980efd707" />
+
+
